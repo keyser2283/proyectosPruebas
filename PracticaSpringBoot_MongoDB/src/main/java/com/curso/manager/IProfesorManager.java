@@ -11,7 +11,7 @@ public interface IProfesorManager {
 	public void insertarProfesor(Profesor p);	
 	
 	public Profesor obtenerProfesor(int id);
-	
+	 
 	public void updateProfesor(Profesor p);
 	
 	public void borrarProfesor(Profesor p);
