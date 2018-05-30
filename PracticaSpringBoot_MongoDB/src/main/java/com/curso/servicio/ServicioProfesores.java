@@ -12,7 +12,7 @@ import com.curso.delegate.IProfesorDelegate;
 import com.curso.modelo.entidad.Profesor;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/universidad")
 @CrossOrigin("http://localhost:4200/")
 public class ServicioProfesores {
 
